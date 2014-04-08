@@ -1,7 +1,12 @@
 # lineman-ember-kit
 =================
+A Kit that pulls together Lineman, Ember, Bower, Sass and Bootstrap
 
-Kit for doing Ember development using lineman-ember-template, lineman-bower, sass, and bootstrap installed.
+In addition to the steps below don't forget to run:
+
+```
+bower install
+```
 
 # Lineman + Ember
 
