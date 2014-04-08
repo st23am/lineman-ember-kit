@@ -1,3 +1,8 @@
+# lineman-ember-kit
+=================
+
+Kit for doing Ember development using lineman-ember-template, lineman-bower, sass, and bootstrap installed.
+
 # Lineman + Ember
 
 [![Build Status](https://travis-ci.org/linemanjs/lineman-ember-template.png)](https://travis-ci.org/linemanjs/lineman-ember-template)
