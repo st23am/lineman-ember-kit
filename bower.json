@@ -1,0 +1,10 @@
+{
+  "name": "my-app",
+  "version": "0.0.1",
+  "dependencies": {
+    "jquery": "~1.9.0"
+  },
+  "devDependencies": {
+    "bootstrap-sass": "twbs/bootstrap-sass#~3.1.1"
+  }
+}

@@ -9,7 +9,17 @@ You can find the parent object in: node_modules/lineman/config/application.js
 module.exports = (lineman) ->
   # Override application configuration here. Common examples follow in the comments.
   return {
-
+    enableSass: true
+    sass: {
+      options: {
+        bundleExec: true
+      }
+      compile: {
+        options: {
+          loadPath: ["app/css", "vendor/css", "vendor/bower/bootstrap-sass/vendor/assets/stylesheets"]
+        }
+      }
+    }
     #  API Proxying
     #
     #  During development, you'll likely want to make XHR (AJAX) requests to an API on the same
