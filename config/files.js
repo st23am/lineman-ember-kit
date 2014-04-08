@@ -14,8 +14,8 @@ module.exports = function(lineman) {
     js: {
       vendor: [
         "vendor/bower/jquery/jquery.js",
-        "vendor/js/handlebars-v1.3.0.js",
-        "vendor/js/ember.js",
+        "vendor/bower/handlebars/handlebars.js",
+        "vendor/bower/ember/ember.js",
         "vendor/js/**/*.js",
         "vendor/bower/bootstrap-sass/vendor/assets/javascripts/bootstrap.js"
       ]
